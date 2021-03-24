@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173908687324",
+    "project_id": "punia-messanger",
+    "storage_bucket": "punia-messanger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173908687324:android:4b6aea44745eed9bdd3719",
+        "android_client_info": {
+          "package_name": "android.example.punia_messanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173908687324-i8ri5ngnb9mp8cuvc0adfnrf1bg0dvcl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM0b6EeGJZg33SF7BBMLh6xzUeaI6iu_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173908687324-i8ri5ngnb9mp8cuvc0adfnrf1bg0dvcl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
